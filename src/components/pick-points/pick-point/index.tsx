@@ -1,5 +1,5 @@
 import React from 'react';
-import { PickPointType } from '../contacts.types';
+import { PickPointType } from '../pick-points.types';
 
 import styles from './pick-point.module.scss';
 

@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { YMaps, Map, Placemark } from 'react-yandex-maps';
 import axios from 'axios';
-import { PickPointType, ResponseType } from './contacts.types';
+import { PickPointType, ResponseType } from './pick-points.types';
 import { PickPoint } from './pick-point';
 
 import styles from './pick-points.module.scss';
