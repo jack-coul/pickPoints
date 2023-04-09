@@ -1,0 +1,25 @@
+.root {
+  background-color: #3a3d3e;
+  padding: 8px 10px;
+  cursor: pointer;
+}
+
+.root:hover {
+  background-color: #3f4749;
+}
+
+.address {
+  font-size: 34px;
+  font-weight: 500;
+}
+
+.budgets {
+  margin-top: 10px;
+  display: flex;
+  gap: 15px;
+}
+
+.budget {
+  background-color: #292c2d;
+  padding: 3px 10px;
+}
