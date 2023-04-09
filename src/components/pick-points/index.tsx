@@ -34,7 +34,7 @@ export function PickPoints() {
 
       <YMaps>
         <div style={{ width: '50%' }}>
-          <Map width={'100%'} height={'100%'} state={{ center: coordinates, zoom: 16 }}>
+          <Map width={'100%'} height={'100%'} state={{ center: coordinates, zoom: 18 }}>
             <Placemark geometry={coordinates} />
           </Map>
         </div>
